@@ -1,6 +1,6 @@
-![](https://github.com/Lezlee-Lowpez/Lezlee-Lowpez/blob/2831dcbfdc5984918aa805c861c59662813dda9f/My%20project.jpg)
-<h1 align="center">Hi 👋, I'm Lesley</h1>
-<h3 align="center">A passionate software engineer from the United States</h3>
+![](https://github.com/Lezlee-Lowpez/Lezlee-Lowpez/blob/f6448dde450a8c03fe348271abfb7e341777781c/banner.jpg)
+<h1 align="center">Hi There 👋, I'm Lesley</h1>
+<h3 align="center">A passionate software engineer from the United States🇺🇸 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lezlee-lowpez&label=Profile%20views&color=0e75b6&style=flat" alt="lezlee-lowpez" /> </p>
 
